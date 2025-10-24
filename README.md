@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc Bao An Nguyen (Jason PG)</h1>
-<h3 align="center">A software developer graduated from Softech Aptech, Vietnam, with an ADSE certificate in distinction.</h3>
+<h3 align="center">A passionate software developer graduated from Softech Aptech, Vietnam, with an ADSE certificate in distinction. Skilled in building scalable web applications using modern technologies, with a strong focus on clean code and continuous learning.</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI), Machine learning.**
 
