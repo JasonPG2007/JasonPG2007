@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quoc Bao An Nguyen (Jason PG)</h1>
 
 <h3 align="center">
-Full-Stack Software Developer | .NET • React • Cloud • Open Source Contributor
+Software Engineer - Backend Developer | .NET • React • Cloud • Open Source Contributor
 </h3>
 
 <p align="center">
@@ -74,7 +74,7 @@ Enterprise-grade .NET framework (14,000+ stars)
 - Pull request reviewed and merged by core maintainers
 - Contributed to large-scale production framework used globally
 
-🔗 PR: https://github.com/abpframework/abp/pull/xxxx
+🔗 PR: [Link to PR](https://github.com/abpframework/abp/pull/25128#event-23798561192)
 
 ---
 
