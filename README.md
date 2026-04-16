@@ -26,17 +26,19 @@ Always learning, building, and improving engineering skills 🚀
 ## 🌟 Featured Projects
 
 ### 🔎 FBLA Lost & Found Platform (Lead Developer)
-Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js**
 
-- AI-powered image similarity search for item matching
-- Real-time updates using SignalR
-- JWT authentication & secure authorization system
-- Voice-controlled interface (Web Speech API)
-- Fully responsive UI with modern UX design
-- Deployed on cloud infrastructure (Azure)
+Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
 
-🔗 Live Demo: https://your-live-demo-link.com  
-🔗 Repository: https://github.com/your-repo-link
+- Built an **AI-powered image search engine** using **OpenAI CLIP embeddings**
+- Implemented **cosine similarity–based vector matching** for semantic lost-item identification
+- Improved search accuracy beyond traditional text-based retrieval systems
+- Enabled real-time status updates and notifications using **SignalR**
+- Designed secure **JWT authentication and authorization workflow**
+- Developed a **voice-controlled interface** using **Web Speech API**
+- Built a fully responsive UI with modern UX principles and accessibility support
+- Deployed and maintained the application on **Microsoft Azure cloud infrastructure**
+
+🔗 Repository: [FBLA Front-end](https://github.com/JasonPG2007/FBLA-Web), [FBLA Back-end](https://github.com/JasonPG2007/FBLA_API), [AI for Image Processing and Comparison](https://github.com/JasonPG2007/AI-Image)
 
 ---
 
@@ -110,8 +112,7 @@ Advanced Diploma in Software Engineering (Distinction)
 ## 📫 Contact
 
 - Email: **baoandng07@gmail.com**
-- LinkedIn: https://linkedin.com/in/your-link
-- GitHub: https://github.com/JasonPG2007
+- LinkedIn: [My LinkedIn Here](https://www.linkedin.com/in/quoc-bao-an-nguyen/)
 
 ---
 
