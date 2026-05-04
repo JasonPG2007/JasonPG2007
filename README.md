@@ -76,7 +76,7 @@ Enterprise-grade .NET framework (14,000+ stars)
 - Pull request reviewed and merged by core maintainers
 - Contributed to large-scale production framework used globally
 
-🔗 PR: [Link to PR](https://github.com/abpframework/abp/pull/25128#event-23798561192)
+🔗 PR: [Link to PR](https://github.com/abpframework/abp/pull/25128)
 
 ---
 
