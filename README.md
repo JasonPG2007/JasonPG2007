@@ -69,7 +69,7 @@ Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
 ## 🧠 Open Source Contributions
 
 ### 🛠️ ABP Framework
-Enterprise-grade .NET framework (14,000+ stars)
+Enterprise-grade .NET framework (14k+ stars)
 
 - Fixed culture-specific CLI casing bug
 - Implemented deterministic fix using `ToUpperInvariant()`
