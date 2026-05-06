@@ -68,7 +68,7 @@ Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
 
 ## 🧠 Open Source Contributions
 
-### 🟢 ABP Framework
+### 🛠️ ABP Framework
 Enterprise-grade .NET framework (14,000+ stars)
 
 - Fixed culture-specific CLI casing bug
@@ -77,6 +77,17 @@ Enterprise-grade .NET framework (14,000+ stars)
 - Contributed to large-scale production framework used globally
 
 🔗 PR: [Link to PR](https://github.com/abpframework/abp/pull/25128)
+
+### 📘 OrchardCore
+Enterprise-grade open-source .NET CMS framework (8k+ stars)
+
+- Documented Admin Theme conventions by analyzing framework internals (AdminZoneFilter, AdminThemeSelector)
+- Clarified attribute-based behavior ([Admin]) and controller naming patterns to reflect actual implementation
+- Reorganized theme-related documentation to improve discoverability and developer onboarding
+- Collaborated with core maintainers through code review and CI checks to meet strict project standards
+- Pull request reviewed and merged by core maintainers
+
+🔗 PR: [Link to PR](https://github.com/OrchardCMS/OrchardCore/pull/19195)
 
 ---
 
