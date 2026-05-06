@@ -14,7 +14,7 @@ Always learning, building, and improving engineering skills 🚀
 
 ## 🚀 Highlights
 
-- ✅ Merged Pull Request to **ABP Framework (14K+ stars on GitHub)**
+- ✅ Merged Pull Requests to **ABP Framework (14K+ stars on GitHub)** and **OrchardCore (8K+ stars on GitHub)**
 - ☁️ Built and deployed applications on **Microsoft Azure & AWS**
 - 🔎 Developed AI-powered search system using image similarity (vector-based matching)
 - ♿ Built accessibility-first applications (voice-controlled UI, WCAG support)
