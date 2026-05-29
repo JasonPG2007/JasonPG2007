@@ -102,21 +102,21 @@ Enterprise-grade open-source .NET CMS framework (8k+ stars)
 
 ## 🎓 Education
 
-**Discovery High School** — Georgia, USA  
-High School Diploma (In Progress)
-
-- AP Computer Science A
-- AP Computer Science Principles
-- Computer Science Honor Society (Founding Member)
-
----
-
 **Aptech Computer Education (ADSE Diploma)** — Vietnam  
 Advanced Diploma in Software Engineering (Distinction)
 
 - GPA: 3.83 / 4.00
 - Enterprise Application Development (J2EE, .NET Core)
 - Dean’s List
+
+---
+
+**Discovery High School** — Georgia, USA  
+High School Diploma
+
+- AP Computer Science A
+- AP Computer Science Principles
+- Computer Science Honor Society (Founding Member)
 
 ---
 
