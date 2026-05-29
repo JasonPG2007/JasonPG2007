@@ -116,6 +116,7 @@ High School Diploma
 
 - AP Computer Science A
 - AP Computer Science Principles
+- AP Precalculus
 - Computer Science Honor Society (Founding Member)
 
 ---
