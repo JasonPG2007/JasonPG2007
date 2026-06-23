@@ -25,7 +25,7 @@ Always learning, building, and improving engineering skills 🚀
 
 ## 🌟 Featured Projects
 
-### 🔎 FBLA Lost & Found Platform (Lead Developer)
+### 🔎 Smart Lost & Found Platform (AI-Powered Full-Stack System) (Lead Developer)
 
 Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
 
@@ -38,7 +38,7 @@ Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
 - Built a fully responsive UI with modern UX principles and accessibility support
 - Deployed and maintained the application on **Microsoft Azure cloud infrastructure**
 
-🔗 Repository: [FBLA Front-end](https://github.com/JasonPG2007/FBLA-Web), [FBLA Back-end](https://github.com/JasonPG2007/FBLA_API), [AI for Image Processing and Comparison](https://github.com/JasonPG2007/AI-Image)
+🔗 Repository: [Frontend](https://github.com/JasonPG2007/LostFound_Web), [Backend](https://github.com/JasonPG2007/LostFound_API), [AI for Image Processing and Comparison](https://github.com/JasonPG2007/AI-Image)
 
 ---
 
