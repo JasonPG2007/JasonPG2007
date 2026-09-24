@@ -1,133 +1,110 @@
 <h1 align="center">Hi 👋, I'm Quoc Bao An Nguyen (Jason PG)</h1>
 
-<h3 align="center">
-Software Engineer - Backend Developer | .NET • React • Cloud • Open Source Contributor
-</h3>
+<p align="center">
+<b>Software Engineer • Backend Developer • AI Systems Builder</b>
+</p>
 
 <p align="center">
-Passionate software developer focused on building scalable full-stack applications, modern web systems, and cloud-based solutions.<br/>
-Experienced in .NET, React, and real-world software development through freelance work, open-source contributions, and production projects.<br/>
-Always learning, building, and improving engineering skills 🚀
+C# / .NET • React • Azure • AI/LLM • Open Source
+</p>
+
+<p align="center">
+I build full-stack applications, AI-powered systems, and developer-focused software with a focus on backend engineering and practical AI integration.
 </p>
 
 ---
 
 ## 🚀 Highlights
 
-- ✅ Merged Pull Requests to **ABP Framework (14K+ stars on GitHub)** and **OrchardCore (8K+ stars on GitHub)**
-- ☁️ Built and deployed applications on **Microsoft Azure & AWS**
-- 🔎 Developed AI-powered search system using image similarity (vector-based matching)
-- ♿ Built accessibility-first applications (voice-controlled UI, WCAG support)
-- 💼 Freelance Web Developer with real client projects
-- 🧠 Strong foundation in full-stack development and system design basics
+* 🏆 **Top 13 Finalist + Best Use of DigitalOcean** at a hackathon
+* 🛠️ Merged contributions to **ABP Framework** and **Orchard Core**
+* 🤖 Built AI systems using **LLM workflows, embeddings, computer vision, and agentic architectures**
+* ☁️ Experience deploying full-stack applications with **ASP.NET Core, React, Azure, and Vercel**
+* ♿ Built accessibility-focused applications with **WCAG-compliant voice navigation**
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔎 Smart Lost & Found Platform (AI-Powered Full-Stack System) (Lead Developer)
+### 🧠 Mendly — AI Stroke Rehabilitation Platform
 
-Full-stack system built with **ASP.NET Core (.NET 8)** and **React.js (Vite)**
+**Top 13 Finalist (87 projects) • Best Use of DigitalOcean Winner**
 
-- Built an **AI-powered image search engine** using **OpenAI CLIP embeddings**
-- Implemented **cosine similarity–based vector matching** for semantic lost-item identification
-- Improved search accuracy beyond traditional text-based retrieval systems
-- Enabled real-time status updates and notifications using **SignalR**
-- Designed secure **JWT authentication and authorization workflow**
-- Developed a **voice-controlled interface** using **Web Speech API**
-- Built a fully responsive UI with modern UX principles and accessibility support
-- Deployed and maintained the application on **Microsoft Azure cloud infrastructure**
+AI-powered rehabilitation platform using **Next.js, MediaPipe, Gemini, Backboard, TigerData, and ElevenLabs**.
 
-🔗 Repository: [Frontend](https://github.com/JasonPG2007/LostFound_Web), [Backend](https://github.com/JasonPG2007/LostFound_API), [AI for Image Processing and Comparison](https://github.com/JasonPG2007/AI-Image)
+* Computer vision pipeline for pose landmarks, joint angles, ROM, and repetition validation
+* Generates structured performance metrics for adaptive exercise recommendations
+* Built as a full-stack AI system during a hackathon
+
+🔗 [Devpost](#) • [Live Site](#)
 
 ---
 
-### 💇 Freelance Project – Nail Salon Website
-- Modern mobile-first redesign using React + CSS Grid/Flexbox
-- Integrated Google Maps API and contact validation system
-- Improved user engagement and booking conversion rate
+### 🧭 PathPilot AI
+
+Adaptive AI learning coach built with **React, ASP.NET Core, Azure, and Vercel**.
+
+* Planner → Critic → Revision multi-agent workflow
+* Powered by the **OpenAI Responses API and GPT-5.6**
+* Explainable AI features including adaptive replanning and strategy comparison
+* Streaming responses, PDF export, roadmap sharing, and responsive UI
+
+🔗 [GitHub](#) • [Live Site](#)
+
+---
+
+### 🔎 Lost & Found Platform
+
+AI-powered lost-and-found platform built with **ASP.NET Core, React, SQL Server, Azure, and SignalR**.
+
+* Image matching using **CLIP embeddings + cosine similarity**
+* End-to-end recovery workflow with claims, scheduling, verification, and notifications
+* Real-time updates with SignalR
+* WCAG-compliant voice navigation
+* GitHub Actions CI for automated build and test validation
+
+🔗 [GitHub](#) • [Live Site](#)
+
+---
+
+## 🛠️ Open Source
+
+### ABP Framework
+
+Contributed a fix for a CLI casing inconsistency affecting module generation across environments.
+
+🔗 [PR #25128](https://github.com/abpframework/abp/pull/25128)
+
+### Orchard Core
+
+Authored official documentation covering Admin Theme conventions and extensibility behavior.
+
+🔗 [PR #19195](https://github.com/OrchardCMS/OrchardCore/pull/19195)
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,java,spring,azure,aws,mongodb,mysql,git,github,docker,firebase,postman,figma,html,css,js,bootstrap" />
-</p>
+**Languages**
+C# • Java • Python • JavaScript • SQL
+
+**Backend & Frameworks**
+ASP.NET Core • React • Spring Boot • Node.js • REST APIs • JWT
+
+**Databases**
+SQL Server • MongoDB
+
+**Cloud & Tools**
+Azure • AWS • Git • GitHub • Docker
+
+**AI & CS**
+LLM Function Calling • Embeddings • Similarity Search • Computer Vision • Data Structures & Algorithms • WCAG
 
 ---
 
-## ☁️ Cloud & DevOps Experience
+## 🔗 Connect
 
-- Microsoft Azure (App Services, Storage, Deployment)
-- AWS fundamentals (compute & hosting basics)
-- GitHub Actions (basic CI/CD understanding)
-- REST API deployment & backend hosting
-
----
-
-## 🧠 Open Source Contributions
-
-### 🛠️ ABP Framework
-Enterprise-grade .NET framework (14k+ stars)
-
-- Fixed culture-specific CLI casing bug
-- Implemented deterministic fix using `ToUpperInvariant()`
-- Pull request reviewed and merged by core maintainers
-- Contributed to large-scale production framework used globally
-
-🔗 PR: [Link to PR](https://github.com/abpframework/abp/pull/25128)
-
-### 📘 OrchardCore
-Enterprise-grade open-source .NET CMS framework (8k+ stars)
-
-- Documented Admin Theme conventions by analyzing framework internals (AdminZoneFilter, AdminThemeSelector)
-- Clarified attribute-based behavior ([Admin]) and controller naming patterns to reflect actual implementation
-- Reorganized theme-related documentation to improve discoverability and developer onboarding
-- Collaborated with core maintainers through code review and CI checks to meet strict project standards
-- Pull request reviewed and merged by core maintainers
-
-🔗 PR: [Link to PR](https://github.com/OrchardCMS/OrchardCore/pull/19195)
-
----
-
-## 💼 Experience
-
-### Freelance Web Developer
-- Built full-stack web applications for real clients
-- Improved website UI/UX and performance
-- Delivered responsive and SEO-optimized solutions
-
----
-
-## 🎓 Education
-
-**Aptech Computer Education (ADSE Diploma)** — Vietnam  
-Advanced Diploma in Software Engineering (Distinction)
-
-- GPA: 3.83 / 4.00
-- Enterprise Application Development (J2EE, .NET Core)
-- Dean’s List
-
----
-
-**Discovery High School** — Georgia, USA  
-High School Diploma
-
-- AP Computer Science A
-- AP Computer Science Principles
-- AP Precalculus
-- Computer Science Honor Society (Founding Member)
-
----
-
-## 📫 Contact
-
-- Email: **baoandng07@gmail.com**
-- LinkedIn: [My LinkedIn Here](https://www.linkedin.com/in/quoc-bao-an-nguyen/)
-
----
-
-## ⚡ Fun Fact
-
-I automate boring things so I can be lazy in a smart way 😆
+**Portfolio:** https://quocbaoandev.vercel.app
+**LinkedIn:** https://www.linkedin.com/in/quoc-bao-an-nguyen/
+**GitHub:** https://github.com/JasonPG2007
+**Email:** [baoandng07@gmail.com](mailto:baoandng07@gmail.com)
