@@ -16,7 +16,7 @@ I build full-stack applications, AI-powered systems, and developer-focused softw
 
 ## 🚀 Highlights
 
-* 🏆 **Top 13 Finalist + Best Use of DigitalOcean** at a hackathon
+* 🏆 **Top 11 Finalist + Best Use of DigitalOcean** at a hackathon
 * 🛠️ Merged contributions to **ABP Framework** and **Orchard Core**
 * 🤖 Built AI systems using **LLM workflows, embeddings, computer vision, and agentic architectures**
 * ☁️ Experience deploying full-stack applications with **ASP.NET Core, React, Azure, and Vercel**
