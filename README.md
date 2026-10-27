@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-C# / .NET • React • Azure • AI/LLM • Open Source
+C# / .NET • Next.JS • Azure • AI/LLM • Open Source
 </p>
 
 <p align="center">
